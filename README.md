@@ -108,6 +108,15 @@ The result: autonomous coding sessions that run for hours without deviating from
 
 Methodology adapted from [obra/superpowers](https://github.com/obra/superpowers) by Jesse Vincent / Prime Radiant. Hermes adaptation by [@dank0296](https://github.com/dank0296).
 
+## Support
+
+If this was helpful, optional support is appreciated:
+
+- Bitcoin (BTC): `bc1q3v2a2l7pgc764fk2wfdcmyddxsepm95z47fgkt`
+- Ethereum (ETH): `0xEe8Cf82fBf92DF477792e7b065F73DcD1D2F9Ca5`
+- Solana (SOL): `FgK8FktQfTTf32sdiizq9xaSZebSDXzLCHDTZ7Ej63J6`
+- Tron (TRX): `TJz5GALB7UiNUhUqNvXFHLsvuj74yYmNsy`
+
 ## License
 
 MIT
