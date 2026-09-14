@@ -2,7 +2,7 @@
 name: brainstorming
 description: "Use before any creative work — features, components, functionality, or behavior changes. Extracts specs through Socratic questioning before implementation. Pairs with writing-plans."
 version: 1.0.0
-author: agent
+author: dank0296 (adapted from obra/superpowers by Jesse Vincent)
 license: MIT
 metadata:
   hermes:

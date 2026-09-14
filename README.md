@@ -106,7 +106,11 @@ The result: autonomous coding sessions that run for hours without deviating from
 
 ## Credits
 
-Methodology adapted from [obra/superpowers](https://github.com/obra/superpowers) by Jesse Vincent / Prime Radiant. Hermes adaptation by [@dank0296](https://github.com/dank0296).
+This is a **Hermes Agent adaptation** of the Superpowers methodology.
+
+**Original work:** [obra/superpowers](https://github.com/obra/superpowers) by **Jesse Vincent** ([@obra](https://github.com/obra) / Prime Radiant). MIT License. Spec-first chain: brainstorming → writing-plans → subagent-driven development → TDD → code review.
+
+This repo is not affiliated with Jesse Vincent or Prime Radiant. All credit for the methodology goes to them. The files here are the Hermes-specific skill wrappers and docs.
 
 ## Support
 

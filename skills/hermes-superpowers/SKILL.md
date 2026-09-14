@@ -2,7 +2,7 @@
 name: hermes-superpowers
 description: "Orchestration meta-skill. Load at session start in any project. Detects current development phase and routes to the right sub-skill. Chains brainstorming → writing-plans → subagent-driven-development → review → finish."
 version: 1.0.0
-author: agent
+author: dank0296 (adapted from obra/superpowers by Jesse Vincent)
 license: MIT
 metadata:
   hermes:
